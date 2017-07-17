@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/a6000696/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/a6000696/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_d41ffb96ebcfa91705c2073b18d41d4fa4423c21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a6000696/.android/build-cache/f32006d8ee612aa48cc43fadc792df1aaff683c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/a6000696/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7338a5b6b0fdd3656449f20cae5561435e72e2f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a6000696/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/a6000696/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_99c052fc4a7f43cdbb91970c908b91c94a1caa51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a6000696/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/a6000696/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_76a76f4dc1ba4b6bd5b55f3e6aed892bbef7605b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a6000696/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/a6000696/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0_4e31e4daf0e88fb85936fa548a67dd2ab1a6454c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a6000696/TestApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7022f2becb06ba0d95fb6b101fa68ac439d67cb1">
+        <dex dex="/Users/a6000696/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5fcbcfc3f64cefa69be0beb0056f0166d737dd01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a6000696/TestApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/a6000696/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_88377e823e613faaaf9b017254e6446e8ddedbab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a6000696/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/a6000696/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_aa3aaf4cbda1b386caff60ca4745de95c979a8ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a6000696/.android/build-cache/ca6537ea3ee6a55e3fb0d164b27c657e16abf48c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/a6000696/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9318dff8c30237a8721d7bc7549d609bc4f87e41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a6000696/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/a6000696/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_bd00e5cc3bf15d04f2341cae3469c5d2fcf29921/classes.dex" />
+    </item>
+
+</items>
